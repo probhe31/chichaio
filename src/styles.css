@@ -9,6 +9,12 @@
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
   }
 
+  .grid
+  {
+    top : 10px;
+    left : 100px;
+  }
+
   .mainContent{
     position: fixed;
     top: 0;
